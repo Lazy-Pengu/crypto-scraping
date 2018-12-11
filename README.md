@@ -1,1 +1,2 @@
 # crypto-scraping
+A simple webscraping program to obtain information about a crytocurrency using the Coin Market Cap API with integration of also sending the information as a email. The user will first be shown a list of crytocurrencies to choose from. Next, they are allowed to choose an attribute of the crytocurrency to obtain information about. Lastly, the user can either email the info to a recipient using a default sender email or print the info onto the screen.
